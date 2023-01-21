@@ -23,7 +23,7 @@ function Navbar() {
 
             <div className='flex justify-evenly w-1/2'>
                 
-                <div><Link to='/' className='Leadership text-md font-normal hover:text-blue-600' > {t("UserPages")} </Link></div>
+                <div><Link to='/' className='Leadership text-md font-normal hover:text-blue-600' > {t("navItems.UserPages")} </Link></div>
                 <div><Link to='/landings' className='Leadership text-md font-normal hover:text-blue-600' > 
                 {t("navItems.Landings")}
                 </Link></div>
