@@ -3,7 +3,7 @@ import {BrowserRouter as Router , Routes , Route} from 'react-router-dom'
 import NavBar from './Components/NavBar';
 import Landings from './Components/Landings';
 import Docs from './Components/Docs';
-import UserPages from './Components/Pages';
+import UserPages from './Components/UserPages';
 import UIKit from './Components/UIKit';
 import Account from './Components/Account'; 
 import UserDetailsCard from './Components/UserDetails'; 
